@@ -1,6 +1,6 @@
 ---
-page: 'services'
-color: '#F86C4D'
+page: services
+color: "#FFFFFF"
 ---
 
 #Hello from Services
