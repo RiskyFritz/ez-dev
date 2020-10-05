@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   branch: master
-  repo: o2dependent/ez-dev
+  repo: RiskyFritz/ez-dev
 
 media_folder: static/img
 public_folder: /img
